@@ -1,0 +1,10 @@
+insert into tb_client (name, cpf, income, birth_date, children) values ('Othilie Gonnel', '902.716.529-11', 8940.0, '2001-11-15T14:25:15Z', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Ferris Berwick', '290.584.836-49', 6490.0, '2009-02-05T10:45:06Z', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Vivia Cunnington', '986.798.293-76', 8900.0, '2020-01-24T12:45:27Z', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Dar Hallede', '513.262.404-73', 9570.0, '2011-10-20T18:35:18Z', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Angil Berthouloume', '838.039.538-48', 8380.0, '2009-01-11T04:39:47Z', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Godfree Derobert', '944.466.922-06', 7700.0, '2017-04-27T16:05:10Z', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Mallorie Trewhella', '709.677.314-45', 8980.0, '2020-06-25T01:46:58Z', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Cassie Beswick', '997.285.790-72', 9790.0, '2012-04-07T07:27:30Z', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Bear Travis', '045.568.700-31', 7660.0, '2009-02-04T14:27:09Z', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Tommy Gange', '690.864.755-79', 9740.0, '2003-10-05T15:33:54Z', 1);
